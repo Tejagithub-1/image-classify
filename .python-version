@@ -1,1 +1,3 @@
 3.10
+(3.10.13) gandrakotaraviteja@tejas-mac tech with tej % cd project3
+(3.10.13) gandrakotaraviteja@tejas-mac project3 % uv run streamlit run main.py
